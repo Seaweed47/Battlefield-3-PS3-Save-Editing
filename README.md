@@ -5,7 +5,7 @@ So we follow this guide https://www.youtube.com/watch?v=HDFEXbtOSjA
 But no need for battlefield 4 checksum fixer anymore
 
 Download this text file and upload it to chatgpt
-https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3%20checksum%20gpt.txt
+https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3_checksum_gpt.txt
 
 Then upload your edited USR-DATA to chatgpt
 
