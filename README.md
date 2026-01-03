@@ -4,10 +4,12 @@ So we follow this guide https://www.youtube.com/watch?v=HDFEXbtOSjA
 
 But no need for battlefield 4 checksum fixer anymore
 
-Give chatgpt this code
+Download this text file and upload it to chatgpt
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3%20checksum%20gpt.txt
 
-Ask chatgpt to use the code on the edited USR-DATA
+Then upload your edited USR-DATA to chatgpt
+
+Now tell chatgpt "Use the code from the text file on the USR-DATA file"
 
 It will tell you something like CRC = 0xE9BDE242
 
