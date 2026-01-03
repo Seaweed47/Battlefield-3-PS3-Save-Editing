@@ -1,18 +1,23 @@
 Click green Code button and download as zip.
 
 So we follow this guide https://www.youtube.com/watch?v=HDFEXbtOSjA
+
 But no need for battlefield 4 checksum fixer anymore
 
 Give chatgpt this code
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3%20checksum%20gpt.txt
 
 Ask chatgpt to use the code on the edited USR-DATA
+
 It will tell you something like CRC = 0xE9BDE242
+
 Then in the Hex editor you edit in E9 BD E2 42 at the start of the first row
+
 You do that for the specific CRC it tells you
 
 For example, this 90 FOV save has CRC = 0x25A4B630 or 25 A4 B6 30 at the start of the first row.
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/tree/main/90%20FOV%20Save
 
 Bruteforce save data link:
+
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bruteforce_Save_Data_v4.4.2.7z
