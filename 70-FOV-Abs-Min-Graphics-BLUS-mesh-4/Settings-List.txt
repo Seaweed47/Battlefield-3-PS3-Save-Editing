@@ -1,0 +1,21 @@
+The purpose of this save is to have the absolute lowest graphics settings except for mesh quality.
+Mesh quality 4 (high) allows you to see 3d spots further which is useful in jets.
+
+UndergrowthQuality 0
+AntiAliasingPost 0
+ShaderQuality 0.000000
+TerrainQuality 0
+ConsoleAntiAlias 0
+TransparentShadows 0
+ShadowQuality 0
+EffectsQuality 0
+FieldOfView 070.000000
+AmbientOcclusion 0
+AnisotropicFilter 0
+TextureQuality 0
+Enlighten 0
+MeshQuality 4
+AntiAliasingDeferred 0
+MotionBlurEnabled 0
+MotionBlur 0.000000
+OverallGraphicsQuality 5 (custom)
