@@ -20,6 +20,24 @@ You do that for the specific CRC it tells you
 For example, this 90 FOV save has CRC = 0x25A4B630 or 25 A4 B6 30 at the start of the first row.
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/tree/main/90%20FOV%20Save
 
+It is also possible to find the checksums offline.
+
+First install python from the microsoft store.
+
+Download this python file and move it to a new folder.
+https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3_checksum_gpt.py
+
+Copy your edited USR-DATA to the same folder as the python file.
+
+Hold shift and right-click the white background within the folder.
+
+Click Open PowerShell window here.
+
+Within Windows PowerShell use the following command: 
+python ./Bf3_checksum_gpt.py USR-DATA
+
+It will then tell you the CRC of the USR-DATA.
+
 Bruteforce save data link:
 
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bruteforce_Save_Data_v4.4.2.7z
