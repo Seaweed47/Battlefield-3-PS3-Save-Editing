@@ -1,0 +1,23 @@
+The purpose of this save is to have the lowest graphics settings while not changing the lighting too much.
+The field of view is changed to 90.
+ShaderQuality 2.000000, TransparentShadows 1, Enlighten 1 are the default values on the ps3.
+Mesh quality 0 is lower than the default value of 2 and may lower the distance of 3d spots.
+
+UndergrowthQuality 0
+AntiAliasingPost 0
+ShaderQuality 2.000000
+TerrainQuality 0
+ConsoleAntiAlias 0
+TransparentShadows 1
+ShadowQuality 0
+EffectsQuality 0
+FieldOfView 090.000000
+AmbientOcclusion 0
+AnisotropicFilter 0
+TextureQuality 0
+Enlighten 1
+MeshQuality 0
+AntiAliasingDeferred 0
+MotionBlurEnabled 0
+MotionBlur 0.000000
+OverallGraphicsQuality 5 (custom)
