@@ -8,7 +8,7 @@ Download this text file and upload it to chatgpt.
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3_checksum.txt
 
 Then upload your edited USR-DATA to chatgpt.
-Now tell chatgpt "Use the code from the text file on the USR-DATA file, state the checksums and return the USR-DATA as a download with the exact same name".
+Now tell chatgpt "Use the code from the text file on the USR-DATA file and output the results, and return the USR-DATA as a download with the exact same name".
 
 Download the updated USR-DATA and rename it to USR-DATA if it is not.
 Now move the updated USR-DATA to the decrypted save folder.
@@ -29,6 +29,7 @@ Now move the updated USR-DATA to the decrypted save folder.
 
 Bruteforce save data link:
 https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bruteforce_Save_Data_v4.4.2.7z
+
 
 
 
