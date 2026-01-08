@@ -11,7 +11,7 @@ Then upload your edited USR-DATA to chatgpt.
 
 Now tell chatgpt "Use the code from the text file on the USR-DATA file, state the checksums and return the USR-DATA as a download with the exact same name".
 
-Download the updated USR-DATA and make sure it is named USR-DATA.
+Download the updated USR-DATA and rename it to USR-DATA if it is not.
 
 Now move the updated USR-DATA to the decrypted save folder.
 
