@@ -9,7 +9,7 @@ https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3_checks
 
 Then upload your edited USR-DATA to chatgpt.
 
-Now tell chatgpt "Use the code from the text file on the USR-DATA file, state the checksums and return the USR-DATA as a download with the exact same name".
+Now tell chatgpt "Use the code on the USR-DATA file and output the results, and return the USR-DATA as a download with the exact same name".
 
 Download the updated USR-DATA and rename it to USR-DATA if it is not.
 
