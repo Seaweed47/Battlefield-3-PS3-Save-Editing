@@ -15,6 +15,8 @@ Download the updated USR-DATA and make sure it is named USR-DATA.
 
 Now move the updated USR-DATA to the decrypted save folder.
 
+You could even just upload the edited USR-DATA by itself and tell chatgpt "Calculate the CRC32 of this USR-DATA file in big-endian using the polynomial 0xEDB88320 and initial seed 0xEDCBA987 and final output bitwise‑NOT and skipping the first 4 bytes of this file. Then update the first 4 bytes with the CRC32 in big-endian while keeping the exact same filename".
+
 It is also possible to find the checksums offline.
 
 First install python from the microsoft store.
