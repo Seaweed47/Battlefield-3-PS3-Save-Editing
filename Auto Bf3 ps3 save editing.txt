@@ -1,0 +1,35 @@
+Link to folder: https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing
+Click green Code button and download as zip.
+
+So we follow this guide https://www.youtube.com/watch?v=HDFEXbtOSjA
+But no need for battlefield 4 checksum fixer anymore.
+
+Download this text file and upload it to chatgpt.
+https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3_checksum.txt
+
+Then upload your edited USR-DATA to chatgpt.
+Now tell chatgpt "Use the code from the text file on the USR-DATA file, state the checksums and return the USR-DATA as a download with the exact same name".
+
+Download the updated USR-DATA and make sure it is named USR-DATA.
+Now move the updated USR-DATA to the decrypted save folder.
+
+It is also possible to update the checksums offline.
+First install python from the microsoft store.
+
+Download this python file and move it to a new folder.
+https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bf3_checksum.py
+Copy your edited USR-DATA to the same folder as the python file.
+
+Hold shift and right-click the white background within the folder.
+Click Open PowerShell window here.
+Within Windows PowerShell use the following command: 
+python ./Bf3_checksum.py USR-DATA
+It will then update the CRC of the USR-DATA.
+Now move the updated USR-DATA to the decrypted save folder.
+
+Bruteforce save data link:
+https://github.com/Seaweed47/Battlefield-3-PS3-Save-Editing/blob/main/Bruteforce_Save_Data_v4.4.2.7z
+
+
+
+
