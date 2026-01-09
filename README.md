@@ -15,7 +15,7 @@ Download the updated USR-DATA and rename it to USR-DATA if it is not.
 
 Now move the updated USR-DATA to the decrypted save folder.
 
-It is also possible to find the checksums offline.
+It is also possible to update the checksums offline.
 
 First install python from the microsoft store.
 
